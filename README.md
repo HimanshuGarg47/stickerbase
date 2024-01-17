@@ -1,3 +1,12 @@
+# StickerBase
+
+Personal catalog for your sticker collection
+
+- [] - react app functional + customize react app to stickerbase
+- [] - hook up mongodb
+- [] - hook up imgs w/ Azure
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
